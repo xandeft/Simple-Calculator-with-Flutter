@@ -1,6 +1,13 @@
 # simple_calculator
+A project made in Flutter, in which the interface and functionality of a calculator were made.
 
-A new Flutter project.
+Initially tested only on Android, because I don't have IOS and my computer can't run an emulator.
+
+The same was done only for improvement in studies, where, I believe, this is a way for me to get more experience in the framework.
+
+For run project, in your smartphone or emulator, you'll need have the flutter instaled in your computer.
+
+-For run the project, open terminal in folder of project and execute the command : flutter run or flutter run --profile
 
 ## Getting Started
 
