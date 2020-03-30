@@ -7,7 +7,10 @@ The same was done only for improvement in studies, where, I believe, this is a w
 
 For run project, in your smartphone or emulator, you'll need have the flutter instaled in your computer.
 
--For run the project, open terminal in folder of project and execute the command : flutter run or flutter run --profile
+- For run the project, open terminal in folder of project and execute the command : flutter run or flutter run --profile
+
+![Alt Text](https://github.com/xandeft/Simple-Calculator-with-Flutter.git/App.jpg)
+
 
 ## Getting Started
 
