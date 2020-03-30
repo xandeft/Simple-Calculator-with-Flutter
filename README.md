@@ -9,7 +9,7 @@ For run project, in your smartphone or emulator, you'll need have the flutter in
 
 - For run the project, open terminal in folder of project and execute the command : flutter run or flutter run --profile
 
-![Alt Text](https://https://github.com/xandeft/Simple-Calculator-with-Flutter/blob/master/App.jpg)
+![Alt Text](https://github.com/xandeft/Simple-Calculator-with-Flutter/blob/master/App.jpg?raw=true)
 
 
 ## Getting Started
